@@ -1,7 +1,7 @@
 # WHY WOULD YOU DO THAT?
 Repository for the BCS-IITK semester project "Why would you do that?" started in June 2021.
 
-#### Contributers: [Ayushi Chaudhary](https://github.com/ayucd), [Siddhant Singh](https://github.com/siddhant7876), [Subiksha Sivakumar](https://github.com/subiksha-sivakumar)
+#### Contributers:  [Siddhant Singh](https://github.com/siddhant7876)
 
 #### Poster of the project: [Why Would You Do That?](https://github.com/ayucd/why-would-you-do-that/blob/main/Final%20Poster-BCS-Why%20Would%20You%20Do%20That.pdf)
 
